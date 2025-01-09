@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+background-color: aliceblue;
+}
+#css {
+    background-color: bisque;
+    text-align: center;
+}
+css-container{
+    display: flex;
+    background-color: tomato;
+    width: 960px;
+    margin: 0 auto;
+}
+#css .css-content{
+
+}
+.css-content h1 {
+    font-size: 90px;
+}
+
+.css-content p{
+    font-size: 24px;
+}
+.css-content button{
+    display: flex;
+    
+}
